@@ -7,7 +7,7 @@ Categories: ["podcast", "fna"]
 DisableComments: false
 ---
 
-{{< transistor_podcast_player 8dae75f5 >}}
+{{< transistor 8dae75f5 >}}
 
 ## :heart: impetus
 I am the judge:

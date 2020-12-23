@@ -15,7 +15,7 @@ image: "/images/sample.jpeg"
 
 
 ## :heart: oak and pine :deciduous_tree:
-{{< transistor_podcast_player 9e9196fa >}}
+{{< transistor 9e9196fa >}}
 Treading lightly with foot folly between branches strewn about\
 on dampened turf in patches here and there in the mostly browned\
 trail smeared with mud and leaves and the occasional pile of dog sh*t:\
