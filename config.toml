@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "eamonn"
 author = "Eamonn Cottrell"
 description = "podcasting & ultrarunning"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile-pic.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
