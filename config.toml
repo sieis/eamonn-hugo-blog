@@ -21,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "eamonn"
 author = "Eamonn Cottrell"
-description = "podcasting & ultrarunning"
+description = "jamstacking, podcasting & ultrarunning"
 profilePicture = "images/profile-pic.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -91,3 +91,9 @@ name = "Contact"
 weight = 400
 identifier = "contact"
 url = "/contact/"
+
+[[menu.main]]
+name = "Podcasts"
+weight = 500
+identifier = "podcasts"
+url = "/podcasts/"
