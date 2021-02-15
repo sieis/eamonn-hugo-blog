@@ -11,9 +11,8 @@ The shortcode is the simple one I created for the Transistor podcast player to b
 
 {{< transistor 70ef5a7e >}}
 
- Here is the shortcode. I had to throw in that backtick ahead of the less-than arrow in order for the code to be written out.
 
-    {{`< transistor 70ef5a7e }}
+    {{ < transistor 70ef5a7e >}}
     code line
 
 And here's what's happening in the shortcode html itself. Nothing fancy, but it works fine, and is a good introduction into creating a simple, custom shortcode.
