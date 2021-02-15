@@ -12,7 +12,7 @@ image: "/the-child-art.jpg"
 
 
 ## :heart: the child :child:
-{{< transistor "70ef5a7e" >}}
+
 In repose against the flimsy mattress with sputtering coughs and incomprehensible wheezing\
 the child yawns and feels his back - reaching for a grasp.\
 Will you scratch it?\
