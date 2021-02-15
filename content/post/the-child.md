@@ -16,7 +16,7 @@ image: "/the-child-art.jpg"
 
 
 ## :heart: the child :child:
-{{< transistor 70ef5a7e >}}
+{{< transistor "70ef5a7e" >}}
 In repose against the flimsy mattress with sputtering coughs and incomprehensible wheezing\
 the child yawns and feels his back - reaching for a grasp.\
 Will you scratch it?\
@@ -59,4 +59,4 @@ Please leave a review on Apple Podcasts! :thumbsup:
 
 ## :clubs: Undertow
 fna is part of :fist: The Undertow Podcast Network.
-#### fna is an experiment in sound :musical_score: and idea :thought_balloon: ...this moment, this movement, with urgency. Oak & Pine was written and performed in 2020.
+#### fna is an experiment in sound :musical_score: and idea :thought_balloon: ...this moment, this movement, with urgency. Oak and Pine was written and performed in 2020.
