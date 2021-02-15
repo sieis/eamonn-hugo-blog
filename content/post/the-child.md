@@ -49,7 +49,7 @@ Already sounds better, but that doesn't spare the tears.\
 the fna show is an experiment in sound and idea recursively crucifying complacency since 2006.\
 :camera: Episode photo by [Mi Pham](https://unsplash.com/@phammi) on [Unsplash](https://unsplash.com/).
 
-{{< episode-image the-child-art.jpg>}}
+{{< episode-image "undertow.jpg" >}}
 
 
 ## :diamonds: Connect :smile:
