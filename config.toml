@@ -75,9 +75,9 @@ weight = 100
 url = "/"
 
 [[menu.main]]
-name = "Posts"
+name = "Blog"
 weight = 200
-identifier = "posts"
+identifier = "blog"
 url = "/post/"
 
 [[menu.main]]
@@ -85,12 +85,6 @@ name = "About"
 weight = 300
 identifier = "about"
 url = "/about/"
-
-[[menu.main]]
-name = "Contact"
-weight = 400
-identifier = "contact"
-url = "/contact/"
 
 [[menu.main]]
 name = "Podcasts"

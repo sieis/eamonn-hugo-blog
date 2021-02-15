@@ -8,6 +8,5 @@ draft: false
 
 ### Sieis Soundtrack
 
-Latest Episode:
-
+{{< transistor 453ff54f >}}
 {{< latest sieis >}}
